@@ -5,75 +5,67 @@
     <description>Apps to help you reach your goals.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Dec 2016 14:57:57 -0500</pubDate>
-    <lastBuildDate>Wed, 28 Dec 2016 14:57:57 -0500</lastBuildDate>
+    <pubDate>Wed, 28 Dec 2016 16:04:32 -0500</pubDate>
+    <lastBuildDate>Wed, 28 Dec 2016 16:04:32 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
         <title>Goal Length for iPhone</title>
-        <description>&lt;h1&gt;Goal Weight &lt;small&gt;Build a New Weight Loss Habit&lt;/small&gt; &lt;img src=&quot;/images/goal-weight/Icon-1024x1024.png&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt;&lt;/h1&gt;
+        <description>&lt;h2&gt;Goal Length &lt;small&gt;Capture All of Your Body Measurements&lt;/small&gt; &lt;img src=&quot;/images/goal-length/icon.png&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt;&lt;/h2&gt;
 &lt;p class=&quot;lead&quot;&gt;
-We all have our own weight loss journey. My journey included creating a new daily habit of stepping on the scale every morning and recording the results. Over time I looked forward to stepping on that scale and entering a new result into Goal Weight to see how far I've come, and to ensure I was still moving in the proper direction.
+Weight loss is difficult. If you are judging your success or failure only by the numbers on your scale you could be missing half the story.
 &lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
-&lt;h3 id=&quot;section_title&quot;&gt;Record Your Weight&lt;/h3&gt;
+&lt;h3 id=&quot;section_title&quot;&gt;Record Your Body Measurements&lt;/h3&gt;
 &lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col-md-8&quot;&gt;Use the tumblers to set your weight for the day.  Press 'Save', and the graphs will be updated with your weight.
+&lt;div class=&quot;col-md-5&quot;&gt;Grab a tape measure, pick a body part, and use the tumblers to enter your body measurements. As you enter a measurement you can compare the new value to the last four measurements you have recorded.
 &lt;/div&gt;
-&lt;div class=&quot;col-md-4&quot;&gt;&lt;a href=&quot;/images/goal-weight/Save-a-measurement-goal-weight.gif&quot;&gt;&lt;img src=&quot;/images/goal-weight/Save-a-measurement-goal-weight.gif&quot; alt=&quot;Save a measurement goal weight&quot; width=&quot;169&quot; height=&quot;300&quot; class=&quot;aligncenter size-medium wp-image-412&quot; /&gt;&lt;/a&gt;
+&lt;div class=&quot;col-md-7&quot;&gt;&lt;a href=&quot;/images/goal-length/Goal-Length-Tumblers.gif&quot;&gt;&lt;img src=&quot;/images/goal-length/Goal-Length-Tumblers.gif&quot; alt=&quot;Save a measurement goal length&quot; width=&quot;338&quot; height=&quot;600&quot; /&gt;&lt;/a&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
-&lt;h3 id=&quot;section_title&quot;&gt;Trend Line&lt;/h3&gt;
+&lt;h3 id=&quot;section_title&quot;&gt;Total Length&lt;/h3&gt;
 &lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col-md-5&quot;&gt;&lt;a href=&quot;/images/goal-weight/trendline.png&quot;&gt;&lt;img src=&quot;/images/goal-weight/trendline.png&quot; alt=&quot;trendline&quot; width=&quot;278&quot; height=&quot;300&quot; class=&quot;aligncenter size-medium wp-image-282&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-&lt;div class=&quot;col-md-7&quot;&gt;Inspired by &lt;a href=&quot;https://www.fourmilab.ch/hackdiet/&quot;&gt;The Hacker's Diet&lt;/a&gt;, Goal Weight implements an &lt;a href=&quot;http://www.fourmilab.ch/hackdiet/www/subsubsection1_4_1_0_8_3.html&quot;&gt;Exponentially Smoothed Moving Average Trend Line&lt;/a&gt;.  
+&lt;div class=&quot;col-md-7&quot;&gt;&lt;a href=&quot;/images/goal-length/total-length.jpg&quot;&gt;&lt;img src=&quot;/images/goal-length/total-length.jpg&quot; alt=&quot;trendline&quot; width=&quot;338&quot; height=&quot;600&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;col-md-5&quot;&gt;Inspired by &lt;a href=&quot;http://www.amazon.com/gp/product/030746363X/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=030746363X&amp;amp;linkCode=as2&amp;amp;tag=benjahysel-20&amp;amp;linkId=YR55ENOG6KLH3C2X&quot;&gt;The 4-Hour Body: An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman&lt;/a&gt;, Goal Length distills all of your measurements to a single number, total inches or total centimeters, to show you quickly which way you are trending. &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;section_title&quot;&gt;Visualize Progress&lt;/h3&gt;
+&lt;div class=&quot;row&quot;&gt;
+Use the plus/minus readings next to each measurement to quickly compare how you are doing verses the last time you entered a measurement.
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-md-4 col-md-offset-2&quot;&gt;&lt;a href=&quot;/images/goal-length/summary.png&quot;&gt;&lt;img alt=&quot;Goal and Starting Weight Graph&quot; src=&quot;/images/goal-length/summary.png&quot; width=&quot;338&quot; height=&quot;600&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;section_title&quot;&gt;Rename Measurements&lt;/h3&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-5&quot;&gt;Out of the box Goal Length tracks ten different measurements, the same ten measurements I use to track my own body. If these measurements don’t appeal to you, rename them to something else, or turn them off to stop tracking them. Need to track more than ten measurements, Goal Length has you covered with the ability to track ten more measurements, for a total of twenty trackable measurements.&lt;/div&gt;
+    &lt;div class=&quot;col-md-7&quot;&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;80%&quot; max-width=&quot;640px&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/5Tz0ENA9zBs &quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 
-The exponentially smoothed moving average trend line is a complicated way of saying, “We are using a line to smooth out your daily weight fluctuations.”   
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;h3 id=&quot;section_title&quot;&gt;Watch Yourself Change Over Time&lt;/h3&gt;
-&lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col-md-4&quot;&gt;&lt;a href=&quot;/images/goal-weight/TwoWeeks.png&quot;&gt;&lt;img class=&quot;aligncenter size-medium wp-image-49&quot; alt=&quot;Goal and Starting Weight Graph&quot; src=&quot;/images/goal-weight/TwoWeeks.png&quot; width=&quot;169&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-&lt;div class=&quot;col-md-4&quot;&gt;&lt;a href=&quot;/images/goal-weight/30Days.png&quot;&gt;&lt;img class=&quot;aligncenter size-medium wp-image-49&quot; alt=&quot;Goal and Starting Weight Graph&quot; src=&quot;/images/goal-weight/30Days.png&quot; width=&quot;169&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-&lt;div class=&quot;col-md-4&quot;&gt;&lt;a href=&quot;/images/goal-weight/90Days.png&quot;&gt;&lt;img class=&quot;aligncenter size-medium wp-image-49&quot; alt=&quot;Goal and Starting Weight Graph&quot; src=&quot;/images/goal-weight/90Days.png&quot; width=&quot;169&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;row&quot;&gt;Quickly swipe back and forth to see your progress over the last two weeks, 30, and 90 days.&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;h3 id=&quot;section_title&quot;&gt;Starting and Goal Weight&lt;/h3&gt;
-&lt;div class=&quot;row&quot;&gt;
-The dashed lines show you where you've been (starting weight), and where you want to go (goal weight).  Below, starting weight and goal weight are shown in their default colors, gray for starting weight, green for goal weight.
-&lt;/div&gt;
-&lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col-md-4&quot;&gt;&lt;/div&gt;
-&lt;div class=&quot;col-md-4&quot;&gt;&lt;a href=&quot;/images/goal-weight/Goal-and-Starting-Weight-Graph.png&quot;&gt;&lt;img class=&quot;aligncenter size-medium wp-image-49&quot; alt=&quot;Goal and Starting Weight Graph&quot; src=&quot;/images/goal-weight/Goal-and-Starting-Weight-Graph.png&quot; width=&quot;300&quot; height=&quot;286&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-&lt;div class=&quot;col-md-4&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;section_title&quot;&gt;Add Your Old Measurements&lt;/h3&gt;
 &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-8&quot;&gt;I used to have weight measurements everywhere...multiple apps, notebooks, and Excel worksheets, nothing worked the way I expected it to.  Goal Weight solved my weight measurement needs, but by moving to a new app I didn't want to lose all of my old history.
-
-Goal Weight makes it easy to import your old measurements into Goal Weight so you can keep all of your historical measurements in one place.  Click the '+' in the upper right hand corner of the 'History' screen, set the date of the measurement, and start importing your old measurements. 
-&lt;/div&gt;
-    &lt;div class=&quot;col-md-4&quot;&gt;&lt;a href=&quot;/images/goal-weight/Add-Historical-Measurement.gif&quot;&gt;&lt;img src=&quot;/images/goal-weight/Add-Historical-Measurement.gif&quot; alt=&quot;Add Historical Measurement&quot; width=&quot;169&quot; height=&quot;300&quot; class=&quot;aligncenter size-medium wp-image-413&quot; /&gt;&lt;/a&gt;
-&lt;/div&gt;
+    &lt;div class=&quot;col-md-7&quot;&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;80%&quot; max-width=&quot;640px&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/pMRtIooJDu0 &quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;    
+    &lt;div class=&quot;col-md-5&quot;&gt;I used to have body measurements everywhere…multiple apps, notebooks, and Excel worksheets, nothing worked the way I expected it to. Goal Length solved my body measurement needs, but by moving to a new app I didn’t want to lose all of my old history.  Goal Length makes it easy to import your old measurements into Goal Length so you can keep all of your historical measurements in one place. Click the ‘+’ in the upper right hand corner of the ‘History’ screen, set the date of the measurement, and start importing your old measurements.&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;
@@ -82,19 +74,10 @@ Goal Weight makes it easy to import your old measurements into Goal Weight so yo
 &lt;br /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;section_title&quot;&gt;Protect Your Measurements&lt;/h3&gt;
 &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-4&quot;&gt;&lt;a href=&quot;/images/goal-weight/touchId.png&quot;&gt;&lt;img src=&quot;/images/goal-weight/touchId.png&quot; alt=&quot;touchId&quot; width=&quot;169&quot; height=&quot;300&quot; class=&quot;aligncenter size-medium wp-image-414&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-    &lt;div class=&quot;col-md-8&quot;&gt;I hate handing my phone over to someone and they ask, &quot;Hey what is this Goal Weight App?&quot;, they proceed to open it up, and to my chagrin all of my weight measurements are splashed all over the screen.
+    &lt;div class=&quot;col-md-5&quot;&gt;I hate handing my phone over to someone and they ask, “Hey what is this Goal Length App?”, they proceed to open it up, and to my chagrin all of my body measurements are splashed all over the screen.
 
-To combat this embarrassment I've added an extra layer of protection to Goal Weight, under 'Settings' click on the 'Touch ID / Passcode' to protect Goal Weight from prying eyes.  Now anytime someone attempts to open Goal Weight they will be challenged with providing authentication via Touch ID or the phone's passcode.&lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;h3 id=&quot;section_title&quot;&gt;Sharing Progress&lt;/h3&gt;
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-8&quot;&gt;There is nothing like sharing your progress with 100s of close friends on Facebook, Twitter, or emailing an update to your mother.  With a double tap on any of the graphs you can quickly take a picture of your current progress and post it for all to see.&lt;/div&gt;
-    &lt;div class=&quot;col-md-4&quot;&gt;&lt;a href=&quot;/images/goal-weight/sharing-image.png&quot;&gt;&lt;img src=&quot;/images/goal-weight/sharing-image.png&quot; alt=&quot;sharing image&quot; width=&quot;169&quot; height=&quot;300&quot; class=&quot;aligncenter size-medium wp-image-137&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+To combat this embarrassment I’ve added an extra layer of protection to Goal Length, under ‘Settings’ click on the ‘Touch ID / Passcode’ to protect Goal Length from prying eyes. Now anytime someone attempts to open Goal Length they will be challenged with providing authentication via Touch ID or the phone’s passcode.&lt;/div&gt;
+    &lt;div class=&quot;col-md-7&quot;&gt;&lt;a href=&quot;/images/goal-length/touhcId.png&quot;&gt;&lt;img src=&quot;/images/goal-length/touchId.png&quot; alt=&quot;touch id&quot; width=&quot;338&quot; height=&quot;600&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;
@@ -103,19 +86,14 @@ To combat this embarrassment I've added an extra layer of protection to Goal Wei
 &lt;br /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;section_title&quot;&gt;Settings&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;Export Weights - Need to get your weight readings to someone else? Export them to a CSV (comma separated value) file that can be opened in Excel.&lt;/li&gt;
-  &lt;li&gt;Changing Units - Prefer measuring in kilograms, Goal Weight has you covered. Swap back and forth between lbs and kg.&lt;/li&gt;
-  &lt;li&gt;Change Graph Colors - Each one of the graph’s colors can be independently changed.&lt;/li&gt;
-  &lt;li&gt;Save your measurements to Apple’s Health app.&lt;/li&gt;
+  &lt;li&gt;Export Measurements – Need to get your measurements to someone else? Export them to a CSV (comma separated value) file that can be opened in Excel.&lt;/li&gt;
+  &lt;li&gt;Changing Units – Prefer measuring in centimeters, Goal Length has you covered. Swap back and forth between inches and centimeters.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&quot; https://itunes.apple.com/app/apple-store/id739560081?pt=223301&amp;amp;ct=Website&amp;amp;mt=8 &quot;&gt;&lt;img class=&quot;content__item-img-center&quot; src=&quot;/images/app_store.png&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;h3 id=&quot;section_title&quot;&gt;Download&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot; https://itunes.apple.com/app/apple-store/id693001074?pt=223301&amp;amp;ct=Website&amp;amp;mt=8 &quot;&gt;&lt;img class=&quot;content__item-img-center&quot; src=&quot;/images/app_store.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 28 Dec 2016 07:32:24 -0500</pubDate>
         <link>http://localhost:4000/app/goal-length</link>
@@ -128,7 +106,7 @@ To combat this embarrassment I've added an extra layer of protection to Goal Wei
     
       <item>
         <title>Goal Weight for iPhone</title>
-        <description>&lt;h1&gt;Goal Weight &lt;small&gt;Build a New Weight Loss Habit&lt;/small&gt; &lt;img src=&quot;/images/goal-weight/Icon-1024x1024.png&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt;&lt;/h1&gt;
+        <description>&lt;h2&gt;Goal Weight &lt;small&gt;Build a New Weight Loss Habit&lt;/small&gt; &lt;img src=&quot;/images/goal-weight/Icon-1024x1024.png&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt;&lt;/h2&gt;
 &lt;p class=&quot;lead&quot;&gt;
 We all have our own weight loss journey. My journey included creating a new daily habit of stepping on the scale every morning and recording the results. Over time I looked forward to stepping on that scale and entering a new result into Goal Weight to see how far I've come, and to ensure I was still moving in the proper direction.
 &lt;/p&gt;
@@ -138,9 +116,9 @@ We all have our own weight loss journey. My journey included creating a new dail
 &lt;br /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;section_title&quot;&gt;Record Your Weight&lt;/h3&gt;
 &lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col-md-8&quot;&gt;Use the tumblers to set your weight for the day.  Press 'Save', and the graphs will be updated with your weight.
+&lt;div class=&quot;col-md-5&quot;&gt;Use the tumblers to set your weight for the day.  Press 'Save', and the graphs will be updated with your weight.
 &lt;/div&gt;
-&lt;div class=&quot;col-md-4&quot;&gt;&lt;a href=&quot;/images/goal-weight/Save-a-measurement-goal-weight.gif&quot;&gt;&lt;img src=&quot;/images/goal-weight/Save-a-measurement-goal-weight.gif&quot; alt=&quot;Save a measurement goal weight&quot; width=&quot;169&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;
+&lt;div class=&quot;col-md-7&quot;&gt;&lt;a href=&quot;/images/goal-weight/Save-a-measurement-goal-weight.gif&quot;&gt;&lt;img src=&quot;/images/goal-weight/Save-a-measurement-goal-weight.gif&quot; alt=&quot;Save a measurement goal weight&quot; width=&quot;338&quot; height=&quot;600&quot; /&gt;&lt;/a&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;
@@ -185,11 +163,11 @@ The dashed lines show you where you've been (starting weight), and where you wan
 &lt;br /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;section_title&quot;&gt;Add Your Old Measurements&lt;/h3&gt;
 &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-8&quot;&gt;I used to have weight measurements everywhere...multiple apps, notebooks, and Excel worksheets, nothing worked the way I expected it to.  Goal Weight solved my weight measurement needs, but by moving to a new app I didn't want to lose all of my old history.
+    &lt;div class=&quot;col-md-5&quot;&gt;I used to have weight measurements everywhere...multiple apps, notebooks, and Excel worksheets, nothing worked the way I expected it to.  Goal Weight solved my weight measurement needs, but by moving to a new app I didn't want to lose all of my old history.
 
 Goal Weight makes it easy to import your old measurements into Goal Weight so you can keep all of your historical measurements in one place.  Click the '+' in the upper right hand corner of the 'History' screen, set the date of the measurement, and start importing your old measurements. 
 &lt;/div&gt;
-    &lt;div class=&quot;col-md-4&quot;&gt;&lt;a href=&quot;/images/goal-weight/Add-Historical-Measurement.gif&quot;&gt;&lt;img src=&quot;/images/goal-weight/Add-Historical-Measurement.gif&quot; alt=&quot;Add Historical Measurement&quot; width=&quot;169&quot; height=&quot;300&quot; class=&quot;aligncenter size-medium wp-image-413&quot; /&gt;&lt;/a&gt;
+    &lt;div class=&quot;col-md-7&quot;&gt;&lt;a href=&quot;/images/goal-weight/Add-Historical-Measurement.gif&quot;&gt;&lt;img src=&quot;/images/goal-weight/Add-Historical-Measurement.gif&quot; alt=&quot;Add Historical Measurement&quot; width=&quot;338&quot; height=&quot;600&quot; /&gt;&lt;/a&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
@@ -199,8 +177,8 @@ Goal Weight makes it easy to import your old measurements into Goal Weight so yo
 &lt;br /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;section_title&quot;&gt;Protect Your Measurements&lt;/h3&gt;
 &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-4&quot;&gt;&lt;a href=&quot;/images/goal-weight/touchId.png&quot;&gt;&lt;img src=&quot;/images/goal-weight/touchId.png&quot; alt=&quot;touchId&quot; width=&quot;169&quot; height=&quot;300&quot; class=&quot;aligncenter size-medium wp-image-414&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-    &lt;div class=&quot;col-md-8&quot;&gt;I hate handing my phone over to someone and they ask, &quot;Hey what is this Goal Weight App?&quot;, they proceed to open it up, and to my chagrin all of my weight measurements are splashed all over the screen.
+    &lt;div class=&quot;col-md-7&quot;&gt;&lt;a href=&quot;/images/goal-weight/touchId.png&quot;&gt;&lt;img src=&quot;/images/goal-weight/touchId.png&quot; alt=&quot;touchId&quot; width=&quot;338&quot; height=&quot;600&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+    &lt;div class=&quot;col-md-5&quot;&gt;I hate handing my phone over to someone and they ask, &quot;Hey what is this Goal Weight App?&quot;, they proceed to open it up, and to my chagrin all of my weight measurements are splashed all over the screen.
 
 To combat this embarrassment I've added an extra layer of protection to Goal Weight, under 'Settings' click on the 'Touch ID / Passcode' to protect Goal Weight from prying eyes.  Now anytime someone attempts to open Goal Weight they will be challenged with providing authentication via Touch ID or the phone's passcode.&lt;/div&gt;
 &lt;/div&gt;
@@ -210,8 +188,8 @@ To combat this embarrassment I've added an extra layer of protection to Goal Wei
 &lt;br /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;section_title&quot;&gt;Sharing Progress&lt;/h3&gt;
 &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-8&quot;&gt;There is nothing like sharing your progress with 100s of close friends on Facebook, Twitter, or emailing an update to your mother.  With a double tap on any of the graphs you can quickly take a picture of your current progress and post it for all to see.&lt;/div&gt;
-    &lt;div class=&quot;col-md-4&quot;&gt;&lt;a href=&quot;/images/goal-weight/sharing-image.png&quot;&gt;&lt;img src=&quot;/images/goal-weight/sharing-image.png&quot; alt=&quot;sharing image&quot; width=&quot;169&quot; height=&quot;300&quot; class=&quot;aligncenter size-medium wp-image-137&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+    &lt;div class=&quot;col-md-5&quot;&gt;There is nothing like sharing your progress with 100s of close friends on Facebook, Twitter, or emailing an update to your mother.  With a double tap on any of the graphs you can quickly take a picture of your current progress and post it for all to see.&lt;/div&gt;
+    &lt;div class=&quot;col-md-7&quot;&gt;&lt;a href=&quot;/images/goal-weight/sharing-image.png&quot;&gt;&lt;img src=&quot;/images/goal-weight/sharing-image.png&quot; alt=&quot;sharing image&quot; width=&quot;338&quot; height=&quot;600&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;
@@ -229,169 +207,12 @@ To combat this embarrassment I've added an extra layer of protection to Goal Wei
 &lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;
 &lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;h3 id=&quot;section_title&quot;&gt;Download&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot; https://itunes.apple.com/app/apple-store/id693001074?pt=223301&amp;amp;ct=Website&amp;amp;mt=8 &quot;&gt;&lt;img class=&quot;content__item-img-center&quot; src=&quot;/images/app_store.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;a href=&quot; https://itunes.apple.com/app/apple-store/id693001074?pt=223301&amp;amp;ct=Website&amp;amp;mt=8 &quot;&gt;&lt;img class=&quot;content__item-img-center&quot; src=&quot;/images/app_store.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 27 Dec 2016 07:32:24 -0500</pubDate>
         <link>http://localhost:4000/app/goal-weight</link>
         <guid isPermaLink="true">http://localhost:4000/app/goal-weight</guid>
-        
-        
-        <category>iphone</category>
-        
-      </item>
-    
-      <item>
-        <title>Appolo</title>
-        <description>&lt;p&gt;&lt;img class=&quot;content__item-img-center animated zoomIn&quot; src=&quot;/images/appolo/appolo-on-devices.png&quot; alt=&quot;Appolo for Jekyll&quot; /&gt;&lt;/p&gt;
-
-&lt;p class=&quot;content__item-center&quot;&gt;
-Introducing Appolo, a set of plugins and themes for &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; to create a static portfolio website for app developers to showcase their work. Its minimalistic theme and playful animations make it perfect to display the amazing apps you have made. The responsive design looks perfect in desktop or mobile. It also comes with a set of plugins to remove the hassle of formatting your apps’ pages. The theme is based on a &lt;a href=&quot;http://tympanus.net/codrops/2015/07/06/zoom-slider/&quot;&gt;Zoom Slider demo&lt;/a&gt; in &lt;a href=&quot;http://tympanus.net/codrops&quot;&gt;Codrops&lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;h3 id=&quot;section_title&quot;&gt;Adding A New App&lt;/h3&gt;
-
-&lt;p&gt;To add a new app, simply create a markdown file in &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory or just duplicate the markdown file for this page in &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts/2015-12-26-appolo.markdown&lt;/code&gt;. Set the variables in the YAML Front Matter block with your app’s parameters.&lt;/p&gt;
-
-&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;colored&quot;&gt;layout
-&lt;/td&gt;&lt;td&gt;Always use &lt;code class=&quot;highlighter-rouge&quot;&gt;post&lt;/code&gt;.
-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;colored&quot;&gt;title
-&lt;/td&gt;&lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;title&lt;/code&gt; appears on the top of the app’s page.
-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;colored&quot;&gt;subtitle
-&lt;/td&gt;&lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;subtitle&lt;/code&gt; appears after the &lt;code class=&quot;highlighter-rouge&quot;&gt;title&lt;/code&gt; in the app’s page.
-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;colored&quot;&gt;description
-&lt;/td&gt;&lt;td&gt;Used in the head’s meta.
-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;colored&quot;&gt;date
-&lt;/td&gt;&lt;td&gt;Published date.
-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;colored&quot;&gt;categories
-&lt;/td&gt;&lt;td&gt;Not used currently.
-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;colored&quot;&gt;permalink
-&lt;/td&gt;&lt;td&gt;NEEDED. This sets the app’s URL to baseurl/permalink.
-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;colored&quot;&gt;device
-&lt;/td&gt;&lt;td&gt;Type of device to use for this app in the landing page. Available options: imac, macbook, iphone, ipad, and apple-watch.
-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;colored&quot;&gt;name
-&lt;/td&gt;&lt;td&gt;Name of the app that is shown on the landing page.
-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;colored&quot;&gt;tagline
-&lt;/td&gt;&lt;td&gt;Shown under &lt;code class=&quot;highlighter-rouge&quot;&gt;name&lt;/code&gt; on the landing page.
-&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-
-&lt;h3 id=&quot;section_title&quot;&gt;Writing an App Page&lt;/h3&gt;
-
-&lt;p&gt;Appolo comes with some custom &lt;a href=&quot;https://github.com/Shopify/liquid/wiki&quot;&gt;Liquid&lt;/a&gt; tags to make it easy writing an app page.&lt;/p&gt;
-
-&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;colored&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;section_title&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;Section&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;Title&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;Here&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;
-&lt;/td&gt;&lt;td&gt;Use this tag to render a section title.
-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;colored&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;img&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;alignment&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;relative_path_to_image&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;alt&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;
-&lt;/td&gt;&lt;td&gt;Use &lt;code class=&quot;highlighter-rouge&quot;&gt;img&lt;/code&gt; tag to render an image with an assigned &lt;code class=&quot;highlighter-rouge&quot;&gt;alignment&lt;/code&gt;. You can use one of the four alignments: &lt;code class=&quot;highlighter-rouge&quot;&gt;center&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;right&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;left&lt;/code&gt;, or &lt;code class=&quot;highlighter-rouge&quot;&gt;fill-width&lt;/code&gt;.
-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;colored&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;textalign&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;center&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;
-&lt;/td&gt;&lt;td&gt;Use &lt;code class=&quot;highlighter-rouge&quot;&gt;textalign&lt;/code&gt; block to set the paragraph alignment.
-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;colored&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;youtube&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;youtube_id&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;
-&lt;/td&gt;&lt;td&gt;Use &lt;code class=&quot;highlighter-rouge&quot;&gt;youtube&lt;/code&gt; followed by the id of the video to show a responsive YouTube frame.
-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;colored&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;features&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;
-&lt;/td&gt;&lt;td&gt;Use &lt;code class=&quot;highlighter-rouge&quot;&gt;features&lt;/code&gt; block to list the features of your apps.
-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;colored&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;download&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;
-&lt;/td&gt;&lt;td&gt;Use &lt;code class=&quot;highlighter-rouge&quot;&gt;download&lt;/code&gt; tag to render a button to download your app. Available options for &lt;code class=&quot;highlighter-rouge&quot;&gt;type&lt;/code&gt; are &lt;code class=&quot;highlighter-rouge&quot;&gt;app_store&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;play_store&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;direct&lt;/code&gt;, and &lt;code class=&quot;highlighter-rouge&quot;&gt;coming_soon&lt;/code&gt;.
-&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-
-&lt;h3 id=&quot;section_title&quot;&gt;App's Images&lt;/h3&gt;
-
-&lt;p&gt;When adding a new app, there are some images you need to prepare. You need to put these images in &lt;code class=&quot;highlighter-rouge&quot;&gt;images/app_name&lt;/code&gt; folder.&lt;/p&gt;
-
-&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;colored&quot;&gt;preview.png
-&lt;/td&gt;&lt;td&gt;321 x 193 px
-&lt;/td&gt;&lt;td&gt;This preview image is used on the landing page. It is positioned inside the device you chose for the app.
-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;colored&quot;&gt;icon.png
-&lt;/td&gt;&lt;td&gt;512 x 512 px
-&lt;/td&gt;&lt;td&gt;Icon of the app.
-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;colored&quot;&gt;fb.png
-&lt;/td&gt;&lt;td&gt;1200 x 630 px
-&lt;/td&gt;&lt;td&gt;The image for Facebook Open Graph.
-&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-</description>
-        <pubDate>Sat, 26 Dec 2015 04:32:24 -0500</pubDate>
-        <link>http://localhost:4000/appolo</link>
-        <guid isPermaLink="true">http://localhost:4000/appolo</guid>
-        
-        
-        <category>web</category>
-        
-      </item>
-    
-      <item>
-        <title>Meeru for Mac</title>
-        <description>&lt;p&gt;&lt;img class=&quot;content__item-img-center animated zoomIn&quot; src=&quot;/images/meeru/meeru-1.png&quot; alt=&quot;Meeru for Mac&quot; /&gt;&lt;/p&gt;
-
-&lt;p class=&quot;content__item-center&quot;&gt;
-Meeru is the app that allows you to play multiple videos from streaming websites at the same time.
-&lt;/p&gt;
-
-&lt;h3 id=&quot;section_title&quot;&gt;Supported services&lt;/h3&gt;
-
-&lt;ul class=&quot;meeru_services&quot;&gt;
-    &lt;li&gt;&amp;#xe80c;&lt;/li&gt;
-    &lt;li&gt;&amp;#xe80d;&lt;/li&gt;
-    &lt;li class=&quot;ted&quot;&gt;TED&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;80%&quot; max-width=&quot;640px&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/tQzKfvn3RZY &quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;section_title&quot;&gt;Features&lt;/h3&gt;
-
-&lt;ul class=&quot;meeru_features&quot;&gt;&lt;li&gt;Play up to 10 videos at the same time.&lt;/li&gt;&lt;li&gt;Add and remove videos without hassle.&lt;/li&gt;&lt;li&gt;Move position of a video simply by dragging it around.&lt;/li&gt;&lt;li&gt;Save the video lists to a .meeru file. Simply double click the .meeru file to re-open all the saved videos.&lt;/li&gt;&lt;/ul&gt;
-
-&lt;h3 id=&quot;section_title&quot;&gt;Download&lt;/h3&gt;
-
-&lt;p&gt;&lt;img class=&quot;content__item-img-center animated zoomIn&quot; src=&quot;/images/app_store_coming_soon.png&quot; alt=&quot;Coming Soon&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 25 Dec 2015 04:32:24 -0500</pubDate>
-        <link>http://localhost:4000/meeru</link>
-        <guid isPermaLink="true">http://localhost:4000/meeru</guid>
-        
-        
-        <category>mac</category>
-        
-      </item>
-    
-      <item>
-        <title>Deep for iPhone</title>
-        <description>&lt;p&gt;&lt;img class=&quot;content__item-img-center animated zoomIn&quot; src=&quot;/images/deep/deep-1.png&quot; alt=&quot;Deep for iPhone&quot; /&gt;&lt;/p&gt;
-
-&lt;p class=&quot;content__item-center&quot;&gt;
-Introducing Deep for iPhone. Featuring an easy-to-use gesture-based navigation, Deep has been designed to help you quickly compose quotes and embed them to attractive images for more engaging social media updates. You can never go wrong with more than 1000 visually stunning photos to choose from, carefully selected fonts, and brilliant image effects.
-&lt;/p&gt;
-
-&lt;h3 id=&quot;section_title&quot;&gt;Choose the best image effect for maximum impact.&lt;/h3&gt;
-&lt;p&gt;&lt;img class=&quot;content__item-img-center animated zoomIn&quot; src=&quot;/images/deep/deep-2.png&quot; alt=&quot;Deep for iPhone&quot; /&gt;&lt;/p&gt;
-&lt;p class=&quot;content__item-center&quot;&gt;
-Deep comes with four brilliant image effects for you to choose from, depending on the mood you want to convey.
-Simply swipe left or right to change the effect.
-&lt;/p&gt;
-
-&lt;p&gt;[[[[  &lt;img class=&quot;content__item-img-fill-width animated zoomIn&quot; src=&quot;/images/deep/deep-3.jpeg&quot; alt=&quot;Deep for iPhone&quot; /&gt; ]]]]&lt;/p&gt;
-
-&lt;h3 id=&quot;section_title&quot;&gt;Match the background photo with what you want to convey.&lt;/h3&gt;
-&lt;p&gt;&lt;img class=&quot;content__item-img-center animated zoomIn&quot; src=&quot;/images/deep/deep-4.png&quot; alt=&quot;Deep for iPhone&quot; /&gt;&lt;/p&gt;
-&lt;p class=&quot;content__item-center&quot;&gt;
-Deep gives you access to more than 1000 stunning photos in a growing list of categories. Let your inspiring quotes about people look incredibly amazing with any of the photos in People category, for example.
-&lt;/p&gt;
-
-&lt;p&gt;[[[[  &lt;img class=&quot;content__item-img-fill-width animated zoomIn&quot; src=&quot;/images/deep/deep-5.jpg&quot; alt=&quot;Deep for iPhone&quot; /&gt; ]]]]&lt;/p&gt;
-
-&lt;h3 id=&quot;section_title&quot;&gt;Save time with intuitive gestures.&lt;/h3&gt;
-&lt;p&gt;&lt;img class=&quot;content__item-img-center animated zoomIn&quot; src=&quot;/images/deep/deep-6.png&quot; alt=&quot;Deep for iPhone&quot; /&gt;&lt;/p&gt;
-&lt;p class=&quot;content__item-center&quot;&gt;
-Swipe left or right to quickly change image effects. Swipe up or down to swiftly change fonts. Pinch in or out to easily change the size of the text. Single tap on certain areas of the photo to effortlessly change text position and alignment. Double tap to edit the text.
-&lt;/p&gt;
-
-&lt;h3 id=&quot;section_title&quot;&gt;Download&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot; https://itunes.apple.com/app/apple-store/id985064577?pt=320144&amp;amp;ct=Deep%20Website%20Bottom&amp;amp;mt=8 &quot;&gt;&lt;img class=&quot;content__item-img-center&quot; src=&quot;/images/app_store.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 20 Dec 2015 07:32:24 -0500</pubDate>
-        <link>http://localhost:4000/deep</link>
-        <guid isPermaLink="true">http://localhost:4000/deep</guid>
         
         
         <category>iphone</category>
