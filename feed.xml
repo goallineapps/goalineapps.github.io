@@ -5,8 +5,8 @@
     <description>Apps to help you reach your goals.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 Dec 2016 22:45:07 -0500</pubDate>
-    <lastBuildDate>Tue, 27 Dec 2016 22:45:07 -0500</lastBuildDate>
+    <pubDate>Tue, 27 Dec 2016 22:47:11 -0500</pubDate>
+    <lastBuildDate>Tue, 27 Dec 2016 22:47:11 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -82,7 +82,7 @@ Goal Weight makes it easy to import your old measurements into Goal Weight so yo
 &lt;br /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;section_title&quot;&gt;Protect Your Measurements&lt;/h3&gt;
 &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-4&quot;&gt;&lt;a href=&quot;/images/goal-weight/touchId.png&quot;&gt;&lt;img src=&quot;/images/goal-weight/touchid.png&quot; alt=&quot;touchId&quot; width=&quot;169&quot; height=&quot;300&quot; class=&quot;aligncenter size-medium wp-image-414&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+    &lt;div class=&quot;col-md-4&quot;&gt;&lt;a href=&quot;/images/goal-weight/touchId.png&quot;&gt;&lt;img src=&quot;/images/goal-weight/touchId.png&quot; alt=&quot;touchId&quot; width=&quot;169&quot; height=&quot;300&quot; class=&quot;aligncenter size-medium wp-image-414&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
     &lt;div class=&quot;col-md-8&quot;&gt;I hate handing my phone over to someone and they ask, &quot;Hey what is this Goal Weight App?&quot;, they proceed to open it up, and to my chagrin all of my weight measurements are splashed all over the screen.
 
 To combat this embarrassment I've added an extra layer of protection to Goal Weight, under 'Settings' click on the 'Touch ID / Passcode' to protect Goal Weight from prying eyes.  Now anytime someone attempts to open Goal Weight they will be challenged with providing authentication via Touch ID or the phone's passcode.&lt;/div&gt;
