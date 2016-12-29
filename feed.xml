@@ -5,13 +5,13 @@
     <description>Apps to help you reach your goals.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Dec 2016 16:04:32 -0500</pubDate>
-    <lastBuildDate>Wed, 28 Dec 2016 16:04:32 -0500</lastBuildDate>
+    <pubDate>Wed, 28 Dec 2016 22:14:18 -0500</pubDate>
+    <lastBuildDate>Wed, 28 Dec 2016 22:14:18 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
         <title>Goal Length for iPhone</title>
-        <description>&lt;h2&gt;Goal Length &lt;small&gt;Capture All of Your Body Measurements&lt;/small&gt; &lt;img src=&quot;/images/goal-length/icon.png&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt;&lt;/h2&gt;
+        <description>&lt;h2&gt;Goal Length &lt;small&gt;Capture All of Your Body Measurements&lt;/small&gt; &lt;img src=&quot;/images/goal-length/icon.png&quot; width=&quot;64&quot; height=&quot;64&quot; /&gt;&lt;/h2&gt;
 &lt;p class=&quot;lead&quot;&gt;
 Weight loss is difficult. If you are judging your success or failure only by the numbers on your scale you could be missing half the story.
 &lt;/p&gt;
@@ -105,8 +105,96 @@ To combat this embarrassment I’ve added an extra layer of protection to Goal L
       </item>
     
       <item>
+        <title>Goal Blood Pressure for iPhone</title>
+        <description>&lt;h3&gt;Goal Blood Pressure &lt;small&gt;Blood pressure tracking made simple&lt;/small&gt; &lt;img src=&quot;/images/goal-blood-pressure/icon.png&quot; width=&quot;64&quot; height=&quot;64&quot; /&gt;&lt;/h3&gt;
+&lt;p class=&quot;lead&quot;&gt;
+Flick the tumblers to record systolic, diastolic, and beats per minute.
+&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;section_title&quot;&gt;Record Your Blood Pressure&lt;/h3&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-md-5&quot;&gt;Use the tumblers to enter your systolic, diastolic, and beats per minute. Add a note to remind yourself about this particular measurement, and view the plus/minus of each of your measurements on the summary screen before saving.
+&lt;/div&gt;
+&lt;div class=&quot;col-md-7&quot;&gt;&lt;a href=&quot;/images/goal-blood-pressure/Add-a-measurement-Goal-Blood-Pressure.gif&quot;&gt;&lt;img src=&quot;/images/goal-blood-pressure/Add-a-measurement-Goal-Blood-Pressure.gif&quot; alt=&quot;Save a measurement goal length&quot; width=&quot;322&quot; height=&quot;670&quot; /&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;section_title&quot;&gt;Trend Line&lt;/h3&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-md-7&quot;&gt;&lt;a href=&quot;/images/goal-blood-pressure/trendline.png&quot;&gt;&lt;img src=&quot;/images/goal-blood-pressure/trendline.png&quot; alt=&quot;trendline&quot; width=&quot;338&quot; height=&quot;600&quot; class=&quot;aligncenter size-medium wp-image-282&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;col-md-5&quot;&gt;Inspired by &lt;a href=&quot;https://www.fourmilab.ch/hackdiet/&quot;&gt;The Hacker's Diet&lt;/a&gt;, Goal Blood Pressure implements an &lt;a href=&quot;http://www.fourmilab.ch/hackdiet/www/subsubsection1_4_1_0_8_3.html&quot;&gt;Exponentially Smoothed Moving Average Trend Line.&lt;/a&gt;  The exponentially smoothed moving average trend line is a complicated way of saying, “We are using a line to smooth out measurement to measurement fluctuations.” &lt;/div&gt;  
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;section_title&quot;&gt;Starting and Goal Blood Pressure&lt;/h3&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-md-7&quot;&gt;&lt;a href=&quot;/images/goal-blood-pressure/startingAndGoal.png&quot;&gt;&lt;img src=&quot;/images/goal-blood-pressure/startingAndGoal.png&quot; alt=&quot;trendline&quot; width=&quot;338&quot; height=&quot;600&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;col-md-5&quot;&gt;The dashed lines show you where you’ve been (starting blood pressure), and where you want to go (goal blood pressure).  Below, starting blood pressure and goal blood pressure are shown in their default colors, gray for starting blood pressure, green for goal blood pressure.&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;section_title&quot;&gt;Protect Your Measurements&lt;/h3&gt;
+&lt;div class=&quot;row&quot;&gt;
+I hate handing my phone over to someone and they ask, “Hey what is this Goal Blood Pressure App?”, they proceed to open it up, and to my chagrin all of my blood Pressure measurements are splashed all over the screen.
+
+To combat this embarrassment I’ve added an extra layer of protection to Goal Blood Pressure, under ‘Settings’ click on the ‘Touch ID / Passcode’ to protect Goal Weight from prying eyes. Now anytime someone attempts to open Goal Blood Pressure they will be challenged with providing authentication via Touch ID or the phone’s passcode.
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-md-4 col-md-offset-2&quot;&gt;&lt;a href=&quot;/images/goal-blood-pressure/touchId.png&quot;&gt;&lt;img alt=&quot;Goal and Starting Weight Graph&quot; src=&quot;/images/goal-blood-pressure/touchId.png&quot; width=&quot;338&quot; height=&quot;600&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;section_title&quot;&gt;Sharing Progress&lt;/h3&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-5&quot;&gt;There is nothing like sharing your progress with 100s of close friends on Facebook, Twitter, or emailing an update to your mother. With a double tap on any of the graphs you can quickly take a picture of your current progress and post it for all to see.&lt;/div&gt;
+    &lt;div class=&quot;col-md-7&quot;&gt;&lt;a href=&quot;/images/goal-blood-pressure/sharing.png&quot;&gt;&lt;img alt=&quot;Goal and Starting Weight Graph&quot; src=&quot;/images/goal-blood-pressure/sharing.png&quot; width=&quot;338&quot; height=&quot;600&quot; /&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;section_title&quot;&gt;Settings&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Export Blood Pressures – Need to get your blood pressure readings to someone else? Export them to a CSV (comma separated value) file that can be opened in Excel.&lt;/li&gt;
+  &lt;li&gt;Change Graph Colors – Each one of the graph’s colors can be independently changed.&lt;/li&gt;
+  &lt;li&gt;Save your measurements to Apple’s Health app.&lt;/li&gt;
+  &lt;li&gt;Turn on/off recording notes and beats per minute&lt;/li&gt;
+  &lt;li&gt;Add in your historical measurements&lt;/li&gt;
+  &lt;li&gt;View your measurements over five different time periods, three days, one week, two weeks, thirty days, and ninety days
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&quot; https://itunes.apple.com/us/app/goal-blood-pressure/id926024922?mt=8 &quot;&gt;&lt;img class=&quot;content__item-img-center&quot; src=&quot;/images/app_store.png&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 28 Dec 2016 07:32:24 -0500</pubDate>
+        <link>http://localhost:4000/app/goal-blood-pressure</link>
+        <guid isPermaLink="true">http://localhost:4000/app/goal-blood-pressure</guid>
+        
+        
+        <category>iphone</category>
+        
+      </item>
+    
+      <item>
         <title>Goal Weight for iPhone</title>
-        <description>&lt;h2&gt;Goal Weight &lt;small&gt;Build a New Weight Loss Habit&lt;/small&gt; &lt;img src=&quot;/images/goal-weight/Icon-1024x1024.png&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt;&lt;/h2&gt;
+        <description>&lt;h2&gt;Goal Weight &lt;small&gt;Build a New Weight Loss Habit&lt;/small&gt; &lt;img src=&quot;/images/goal-weight/Icon-1024x1024.png&quot; width=&quot;64&quot; height=&quot;64&quot; /&gt;&lt;/h2&gt;
 &lt;p class=&quot;lead&quot;&gt;
 We all have our own weight loss journey. My journey included creating a new daily habit of stepping on the scale every morning and recording the results. Over time I looked forward to stepping on that scale and entering a new result into Goal Weight to see how far I've come, and to ensure I was still moving in the proper direction.
 &lt;/p&gt;
@@ -201,14 +289,13 @@ To combat this embarrassment I've added an extra layer of protection to Goal Wei
   &lt;li&gt;Export Weights - Need to get your weight readings to someone else? Export them to a CSV (comma separated value) file that can be opened in Excel.&lt;/li&gt;
   &lt;li&gt;Changing Units - Prefer measuring in kilograms, Goal Weight has you covered. Swap back and forth between lbs and kg.&lt;/li&gt;
   &lt;li&gt;Change Graph Colors - Each one of the graph’s colors can be independently changed.&lt;/li&gt;
-  &lt;li&gt;Save your measurements to Apple’s Health app.&lt;/li&gt;
+  &lt;li&gt;Save your measurements to Apple’s Health app.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&quot; https://itunes.apple.com/app/apple-store/id693001074?pt=223301&amp;amp;ct=Website&amp;amp;mt=8 &quot;&gt;&lt;img class=&quot;content__item-img-center&quot; src=&quot;/images/app_store.png&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;a href=&quot; https://itunes.apple.com/app/apple-store/id693001074?pt=223301&amp;amp;ct=Website&amp;amp;mt=8 &quot;&gt;&lt;img class=&quot;content__item-img-center&quot; src=&quot;/images/app_store.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 27 Dec 2016 07:32:24 -0500</pubDate>
         <link>http://localhost:4000/app/goal-weight</link>
