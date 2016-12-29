@@ -5,8 +5,8 @@
     <description>Apps to help you reach your goals.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Dec 2016 22:14:18 -0500</pubDate>
-    <lastBuildDate>Wed, 28 Dec 2016 22:14:18 -0500</lastBuildDate>
+    <pubDate>Wed, 28 Dec 2016 22:16:16 -0500</pubDate>
+    <lastBuildDate>Wed, 28 Dec 2016 22:16:16 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -127,7 +127,7 @@ Flick the tumblers to record systolic, diastolic, and beats per minute.
 &lt;br /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;section_title&quot;&gt;Trend Line&lt;/h3&gt;
 &lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col-md-7&quot;&gt;&lt;a href=&quot;/images/goal-blood-pressure/trendline.png&quot;&gt;&lt;img src=&quot;/images/goal-blood-pressure/trendline.png&quot; alt=&quot;trendline&quot; width=&quot;338&quot; height=&quot;600&quot; class=&quot;aligncenter size-medium wp-image-282&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;col-md-7&quot;&gt;&lt;a href=&quot;/images/goal-blood-pressure/trendLine.png&quot;&gt;&lt;img src=&quot;/images/goal-blood-pressure/trendLine.png&quot; alt=&quot;trendline&quot; width=&quot;338&quot; height=&quot;600&quot; class=&quot;aligncenter size-medium wp-image-282&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
 &lt;div class=&quot;col-md-5&quot;&gt;Inspired by &lt;a href=&quot;https://www.fourmilab.ch/hackdiet/&quot;&gt;The Hacker's Diet&lt;/a&gt;, Goal Blood Pressure implements an &lt;a href=&quot;http://www.fourmilab.ch/hackdiet/www/subsubsection1_4_1_0_8_3.html&quot;&gt;Exponentially Smoothed Moving Average Trend Line.&lt;/a&gt;  The exponentially smoothed moving average trend line is a complicated way of saying, “We are using a line to smooth out measurement to measurement fluctuations.” &lt;/div&gt;  
 &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;
