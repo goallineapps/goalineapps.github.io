@@ -5,8 +5,8 @@
     <description>Apps to help you reach your goals.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 29 Dec 2016 20:44:17 -0500</pubDate>
-    <lastBuildDate>Thu, 29 Dec 2016 20:44:17 -0500</lastBuildDate>
+    <pubDate>Thu, 29 Dec 2016 21:00:04 -0500</pubDate>
+    <lastBuildDate>Thu, 29 Dec 2016 21:00:04 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -19,16 +19,16 @@
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;section_title&quot;&gt;Record Your Body Measurements&lt;/h3&gt;
 &lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col-sm-5&quot;&gt;Grab a tape measure, pick a body part, and use the tumblers to enter your body measurements. As you enter a measurement you can compare the new value to the last four measurements you have recorded.
+&lt;div class=&quot;col-sm-6&quot;&gt;Grab a tape measure, pick a body part, and use the tumblers to enter your body measurements. As you enter a measurement you can compare the new value to the last four measurements you have recorded.
 &lt;/div&gt;
-&lt;div class=&quot;col-sm-7&quot;&gt;&lt;a href=&quot;/images/goal-length/Goal-Length-Tumblers.gif&quot;&gt;&lt;img src=&quot;/images/goal-length/Goal-Length-Tumblers.gif&quot; alt=&quot;Save a measurement goal length&quot; width=&quot;338&quot; height=&quot;600&quot; /&gt;&lt;/a&gt;
+&lt;div class=&quot;col-sm-6&quot;&gt;&lt;a href=&quot;/images/goal-length/Goal-Length-Tumblers.gif&quot;&gt;&lt;img src=&quot;/images/goal-length/Goal-Length-Tumblers.gif&quot; alt=&quot;Save a measurement goal length&quot; width=&quot;338&quot; height=&quot;600&quot; /&gt;&lt;/a&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;section_title&quot;&gt;Total Length&lt;/h3&gt;
 &lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col-sm-7&quot;&gt;&lt;a href=&quot;/images/goal-length/total-length.jpg&quot;&gt;&lt;img src=&quot;/images/goal-length/total-length.jpg&quot; alt=&quot;trendline&quot; width=&quot;338&quot; height=&quot;600&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-&lt;div class=&quot;col-sm-5&quot;&gt;Inspired by &lt;a href=&quot;http://www.amazon.com/gp/product/030746363X/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=030746363X&amp;amp;linkCode=as2&amp;amp;tag=benjahysel-20&amp;amp;linkId=YR55ENOG6KLH3C2X&quot;&gt;The 4-Hour Body: An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman&lt;/a&gt;, Goal Length distills all of your measurements to a single number, total inches or total centimeters, to show you quickly which way you are trending. &lt;/div&gt;
+&lt;div class=&quot;col-sm-6&quot;&gt;&lt;a href=&quot;/images/goal-length/total-length.jpg&quot;&gt;&lt;img src=&quot;/images/goal-length/total-length.jpg&quot; alt=&quot;trendline&quot; width=&quot;338&quot; height=&quot;600&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-6&quot;&gt;Inspired by &lt;a href=&quot;http://www.amazon.com/gp/product/030746363X/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=030746363X&amp;amp;linkCode=as2&amp;amp;tag=benjahysel-20&amp;amp;linkId=YR55ENOG6KLH3C2X&quot;&gt;The 4-Hour Body: An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman&lt;/a&gt;, Goal Length distills all of your measurements to a single number, total inches or total centimeters, to show you quickly which way you are trending. &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;section_title&quot;&gt;Visualize Progress&lt;/h3&gt;
@@ -42,23 +42,23 @@ Use the plus/minus readings next to each measurement to quickly compare how you 
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;section_title&quot;&gt;Rename Measurements&lt;/h3&gt;
 &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-sm-5&quot;&gt;Out of the box Goal Length tracks ten different measurements, the same ten measurements I use to track my own body. If these measurements don’t appeal to you, rename them to something else, or turn them off to stop tracking them. Need to track more than ten measurements, Goal Length has you covered with the ability to track ten more measurements, for a total of twenty trackable measurements.&lt;/div&gt;
-    &lt;div class=&quot;col-sm-7&quot;&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;80%&quot; max-width=&quot;640px&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/5Tz0ENA9zBs &quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+    &lt;div class=&quot;col-sm-6&quot;&gt;Out of the box Goal Length tracks ten different measurements, the same ten measurements I use to track my own body. If these measurements don’t appeal to you, rename them to something else, or turn them off to stop tracking them. Need to track more than ten measurements, Goal Length has you covered with the ability to track ten more measurements, for a total of twenty trackable measurements.&lt;/div&gt;
+    &lt;div class=&quot;col-sm-6&quot;&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;80%&quot; max-width=&quot;640px&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/5Tz0ENA9zBs &quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;section_title&quot;&gt;Add Your Old Measurements&lt;/h3&gt;
 &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-sm-7&quot;&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;80%&quot; max-width=&quot;640px&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/pMRtIooJDu0 &quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;    
-    &lt;div class=&quot;col-sm-5&quot;&gt;I used to have body measurements everywhere…multiple apps, notebooks, and Excel worksheets, nothing worked the way I expected it to. Goal Length solved my body measurement needs, but by moving to a new app I didn’t want to lose all of my old history.  Goal Length makes it easy to import your old measurements into Goal Length so you can keep all of your historical measurements in one place. Click the ‘+’ in the upper right hand corner of the ‘History’ screen, set the date of the measurement, and start importing your old measurements.&lt;/div&gt;
+    &lt;div class=&quot;col-sm-6&quot;&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;80%&quot; max-width=&quot;640px&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/pMRtIooJDu0 &quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;    
+    &lt;div class=&quot;col-sm-6&quot;&gt;I used to have body measurements everywhere…multiple apps, notebooks, and Excel worksheets, nothing worked the way I expected it to. Goal Length solved my body measurement needs, but by moving to a new app I didn’t want to lose all of my old history.  Goal Length makes it easy to import your old measurements into Goal Length so you can keep all of your historical measurements in one place. Click the ‘+’ in the upper right hand corner of the ‘History’ screen, set the date of the measurement, and start importing your old measurements.&lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;section_title&quot;&gt;Protect Your Measurements&lt;/h3&gt;
 &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-sm-5&quot;&gt;I hate handing my phone over to someone and they ask, “Hey what is this Goal Length App?”, they proceed to open it up, and to my chagrin all of my body measurements are splashed all over the screen.
+    &lt;div class=&quot;col-sm-6&quot;&gt;I hate handing my phone over to someone and they ask, “Hey what is this Goal Length App?”, they proceed to open it up, and to my chagrin all of my body measurements are splashed all over the screen.
 
 To combat this embarrassment I’ve added an extra layer of protection to Goal Length, under ‘Settings’ click on the ‘Touch ID / Passcode’ to protect Goal Length from prying eyes. Now anytime someone attempts to open Goal Length they will be challenged with providing authentication via Touch ID or the phone’s passcode.&lt;/div&gt;
-    &lt;div class=&quot;col-sm-7&quot;&gt;&lt;a href=&quot;/images/goal-length/touhcId.png&quot;&gt;&lt;img src=&quot;/images/goal-length/touchId.png&quot; alt=&quot;touch id&quot; width=&quot;338&quot; height=&quot;600&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+    &lt;div class=&quot;col-sm-6&quot;&gt;&lt;a href=&quot;/images/goal-length/touhcId.png&quot;&gt;&lt;img src=&quot;/images/goal-length/touchId.png&quot; alt=&quot;touch id&quot; width=&quot;338&quot; height=&quot;600&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;section_title&quot;&gt;Settings&lt;/h3&gt;
@@ -88,22 +88,22 @@ To combat this embarrassment I’ve added an extra layer of protection to Goal L
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;section_title&quot;&gt;Record Your Blood Pressure&lt;/h3&gt;
 &lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col-sm-5&quot;&gt;Use the tumblers to enter your systolic, diastolic, and beats per minute. Add a note to remind yourself about this particular measurement, and view the plus/minus of each of your measurements on the summary screen before saving.
+&lt;div class=&quot;col-sm-6&quot;&gt;Use the tumblers to enter your systolic, diastolic, and beats per minute. Add a note to remind yourself about this particular measurement, and view the plus/minus of each of your measurements on the summary screen before saving.
 &lt;/div&gt;
-&lt;div class=&quot;col-sm-7&quot;&gt;&lt;a href=&quot;/images/goal-blood-pressure/Add-a-measurement-Goal-Blood-Pressure.gif&quot;&gt;&lt;img src=&quot;/images/goal-blood-pressure/Add-a-measurement-Goal-Blood-Pressure.gif&quot; alt=&quot;Save a measurement goal length&quot; width=&quot;322&quot; height=&quot;670&quot; /&gt;&lt;/a&gt;
+&lt;div class=&quot;col-sm-6&quot;&gt;&lt;a href=&quot;/images/goal-blood-pressure/Add-a-measurement-Goal-Blood-Pressure.gif&quot;&gt;&lt;img src=&quot;/images/goal-blood-pressure/Add-a-measurement-Goal-Blood-Pressure.gif&quot; alt=&quot;Save a measurement goal length&quot; width=&quot;322&quot; height=&quot;670&quot; /&gt;&lt;/a&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;section_title&quot;&gt;Trend Line&lt;/h3&gt;
 &lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col-sm-7&quot;&gt;&lt;a href=&quot;/images/goal-blood-pressure/trendLine.png&quot;&gt;&lt;img src=&quot;/images/goal-blood-pressure/trendLine.png&quot; alt=&quot;trendline&quot; width=&quot;338&quot; height=&quot;600&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-&lt;div class=&quot;col-sm-5&quot;&gt;Inspired by &lt;a href=&quot;https://www.fourmilab.ch/hackdiet/&quot;&gt;The Hacker's Diet&lt;/a&gt;, Goal Blood Pressure implements an &lt;a href=&quot;http://www.fourmilab.ch/hackdiet/www/subsubsection1_4_1_0_8_3.html&quot;&gt;Exponentially Smoothed Moving Average Trend Line.&lt;/a&gt;  The exponentially smoothed moving average trend line is a complicated way of saying, “We are using a line to smooth out measurement to measurement fluctuations.” &lt;/div&gt;  
+&lt;div class=&quot;col-sm-6&quot;&gt;&lt;a href=&quot;/images/goal-blood-pressure/trendLine.png&quot;&gt;&lt;img src=&quot;/images/goal-blood-pressure/trendLine.png&quot; alt=&quot;trendline&quot; width=&quot;338&quot; height=&quot;600&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-6&quot;&gt;Inspired by &lt;a href=&quot;https://www.fourmilab.ch/hackdiet/&quot;&gt;The Hacker's Diet&lt;/a&gt;, Goal Blood Pressure implements an &lt;a href=&quot;http://www.fourmilab.ch/hackdiet/www/subsubsection1_4_1_0_8_3.html&quot;&gt;Exponentially Smoothed Moving Average Trend Line.&lt;/a&gt;  The exponentially smoothed moving average trend line is a complicated way of saying, “We are using a line to smooth out measurement to measurement fluctuations.” &lt;/div&gt;  
 &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;section_title&quot;&gt;Starting and Goal Blood Pressure&lt;/h3&gt;
 &lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col-sm-7&quot;&gt;&lt;a href=&quot;/images/goal-blood-pressure/startingAndGoal.png&quot;&gt;&lt;img src=&quot;/images/goal-blood-pressure/startingAndGoal.png&quot; alt=&quot;trendline&quot; width=&quot;338&quot; height=&quot;600&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-&lt;div class=&quot;col-sm-5&quot;&gt;The dashed lines show you where you’ve been (starting blood pressure), and where you want to go (goal blood pressure).  Below, starting blood pressure and goal blood pressure are shown in their default colors, gray for starting blood pressure, green for goal blood pressure.&lt;/div&gt;
+&lt;div class=&quot;col-sm-6&quot;&gt;The dashed lines show you where you’ve been (starting blood pressure), and where you want to go (goal blood pressure).  Below, starting blood pressure and goal blood pressure are shown in their default colors, gray for starting blood pressure, green for goal blood pressure.&lt;/div&gt;
+&lt;div class=&quot;col-sm-6&quot;&gt;&lt;a href=&quot;/images/goal-blood-pressure/startingAndGoal.png&quot;&gt;&lt;img src=&quot;/images/goal-blood-pressure/startingAndGoal.png&quot; alt=&quot;trendline&quot; width=&quot;338&quot; height=&quot;600&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;section_title&quot;&gt;Protect Your Measurements&lt;/h3&gt;
@@ -119,8 +119,8 @@ To combat this embarrassment I’ve added an extra layer of protection to Goal B
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;section_title&quot;&gt;Sharing Progress&lt;/h3&gt;
 &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-sm-5&quot;&gt;There is nothing like sharing your progress with 100s of close friends on Facebook, Twitter, or emailing an update to your mother. With a double tap on any of the graphs you can quickly take a picture of your current progress and post it for all to see.&lt;/div&gt;
-    &lt;div class=&quot;col-sm-7&quot;&gt;&lt;a href=&quot;/images/goal-blood-pressure/sharing.png&quot;&gt;&lt;img alt=&quot;Goal and Starting Weight Graph&quot; src=&quot;/images/goal-blood-pressure/sharing.png&quot; width=&quot;338&quot; height=&quot;600&quot; /&gt;&lt;/a&gt;
+    &lt;div class=&quot;col-sm-6&quot;&gt;There is nothing like sharing your progress with 100s of close friends on Facebook, Twitter, or emailing an update to your mother. With a double tap on any of the graphs you can quickly take a picture of your current progress and post it for all to see.&lt;/div&gt;
+    &lt;div class=&quot;col-sm-6&quot;&gt;&lt;a href=&quot;/images/goal-blood-pressure/sharing.png&quot;&gt;&lt;img alt=&quot;Goal and Starting Weight Graph&quot; src=&quot;/images/goal-blood-pressure/sharing.png&quot; width=&quot;338&quot; height=&quot;600&quot; /&gt;&lt;/a&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
@@ -155,16 +155,16 @@ To combat this embarrassment I’ve added an extra layer of protection to Goal B
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;section_title&quot;&gt;Record Your Weight&lt;/h3&gt;
 &lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col-sm-5&quot;&gt;Use the tumblers to set your weight for the day.  Press 'Save', and the graphs will be updated with your weight.
+&lt;div class=&quot;col-sm-6&quot;&gt;Use the tumblers to set your weight for the day.  Press 'Save', and the graphs will be updated with your weight.
 &lt;/div&gt;
-&lt;div class=&quot;col-sm-7&quot;&gt;&lt;a href=&quot;/images/goal-weight/Save-a-measurement-goal-weight.gif&quot;&gt;&lt;img src=&quot;/images/goal-weight/Save-a-measurement-goal-weight.gif&quot; alt=&quot;Save a measurement goal weight&quot; width=&quot;338&quot; height=&quot;600&quot; /&gt;&lt;/a&gt;
+&lt;div class=&quot;col-sm-6&quot;&gt;&lt;a href=&quot;/images/goal-weight/Save-a-measurement-goal-weight.gif&quot;&gt;&lt;img src=&quot;/images/goal-weight/Save-a-measurement-goal-weight.gif&quot; alt=&quot;Save a measurement goal weight&quot; width=&quot;338&quot; height=&quot;600&quot; /&gt;&lt;/a&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;section_title&quot;&gt;Trend Line&lt;/h3&gt;
 &lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col-sm-5&quot;&gt;&lt;a href=&quot;/images/goal-weight/trendline.png&quot;&gt;&lt;img src=&quot;/images/goal-weight/trendline.png&quot; alt=&quot;trendline&quot; width=&quot;278&quot; height=&quot;300&quot; class=&quot;aligncenter size-medium wp-image-282&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-&lt;div class=&quot;col-sm-7&quot;&gt;Inspired by &lt;a href=&quot;https://www.fourmilab.ch/hackdiet/&quot;&gt;The Hacker's Diet&lt;/a&gt;, Goal Weight implements an &lt;a href=&quot;http://www.fourmilab.ch/hackdiet/www/subsubsection1_4_1_0_8_3.html&quot;&gt;Exponentially Smoothed Moving Average Trend Line&lt;/a&gt;.  
+&lt;div class=&quot;col-sm-6&quot;&gt;&lt;a href=&quot;/images/goal-weight/trendline.png&quot;&gt;&lt;img src=&quot;/images/goal-weight/trendline.png&quot; alt=&quot;trendline&quot; width=&quot;278&quot; height=&quot;300&quot; class=&quot;aligncenter size-medium wp-image-282&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;col-sm-6&quot;&gt;Inspired by &lt;a href=&quot;https://www.fourmilab.ch/hackdiet/&quot;&gt;The Hacker's Diet&lt;/a&gt;, Goal Weight implements an &lt;a href=&quot;http://www.fourmilab.ch/hackdiet/www/subsubsection1_4_1_0_8_3.html&quot;&gt;Exponentially Smoothed Moving Average Trend Line&lt;/a&gt;.  
 
 The exponentially smoothed moving average trend line is a complicated way of saying, “We are using a line to smooth out your daily weight fluctuations.”   
 &lt;/div&gt;
@@ -190,26 +190,26 @@ The dashed lines show you where you've been (starting weight), and where you wan
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;section_title&quot;&gt;Add Your Old Measurements&lt;/h3&gt;
 &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-sm-5&quot;&gt;I used to have weight measurements everywhere...multiple apps, notebooks, and Excel worksheets, nothing worked the way I expected it to.  Goal Weight solved my weight measurement needs, but by moving to a new app I didn't want to lose all of my old history.
+    &lt;div class=&quot;col-sm-6&quot;&gt;I used to have weight measurements everywhere...multiple apps, notebooks, and Excel worksheets, nothing worked the way I expected it to.  Goal Weight solved my weight measurement needs, but by moving to a new app I didn't want to lose all of my old history.
 
 Goal Weight makes it easy to import your old measurements into Goal Weight so you can keep all of your historical measurements in one place.  Click the '+' in the upper right hand corner of the 'History' screen, set the date of the measurement, and start importing your old measurements. 
 &lt;/div&gt;
-    &lt;div class=&quot;col-sm-7&quot;&gt;&lt;a href=&quot;/images/goal-weight/Add-Historical-Measurement.gif&quot;&gt;&lt;img src=&quot;/images/goal-weight/Add-Historical-Measurement.gif&quot; alt=&quot;Add Historical Measurement&quot; width=&quot;338&quot; height=&quot;600&quot; /&gt;&lt;/a&gt;
+    &lt;div class=&quot;col-sm-6&quot;&gt;&lt;a href=&quot;/images/goal-weight/Add-Historical-Measurement.gif&quot;&gt;&lt;img src=&quot;/images/goal-weight/Add-Historical-Measurement.gif&quot; alt=&quot;Add Historical Measurement&quot; width=&quot;338&quot; height=&quot;600&quot; /&gt;&lt;/a&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;section_title&quot;&gt;Protect Your Measurements&lt;/h3&gt;
 &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-sm-7&quot;&gt;&lt;a href=&quot;/images/goal-weight/touchId.png&quot;&gt;&lt;img src=&quot;/images/goal-weight/touchId.png&quot; alt=&quot;touchId&quot; width=&quot;338&quot; height=&quot;600&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
-    &lt;div class=&quot;col-sm-5&quot;&gt;I hate handing my phone over to someone and they ask, &quot;Hey what is this Goal Weight App?&quot;, they proceed to open it up, and to my chagrin all of my weight measurements are splashed all over the screen.
+    &lt;div class=&quot;col-sm-6&quot;&gt;&lt;a href=&quot;/images/goal-weight/touchId.png&quot;&gt;&lt;img src=&quot;/images/goal-weight/touchId.png&quot; alt=&quot;touchId&quot; width=&quot;338&quot; height=&quot;600&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+    &lt;div class=&quot;col-sm-6&quot;&gt;I hate handing my phone over to someone and they ask, &quot;Hey what is this Goal Weight App?&quot;, they proceed to open it up, and to my chagrin all of my weight measurements are splashed all over the screen.
 
 To combat this embarrassment I've added an extra layer of protection to Goal Weight, under 'Settings' click on the 'Touch ID / Passcode' to protect Goal Weight from prying eyes.  Now anytime someone attempts to open Goal Weight they will be challenged with providing authentication via Touch ID or the phone's passcode.&lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;section_title&quot;&gt;Sharing Progress&lt;/h3&gt;
 &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-sm-5&quot;&gt;There is nothing like sharing your progress with 100s of close friends on Facebook, Twitter, or emailing an update to your mother.  With a double tap on any of the graphs you can quickly take a picture of your current progress and post it for all to see.&lt;/div&gt;
-    &lt;div class=&quot;col-sm-7&quot;&gt;&lt;a href=&quot;/images/goal-weight/sharing-image.png&quot;&gt;&lt;img src=&quot;/images/goal-weight/sharing-image.png&quot; alt=&quot;sharing image&quot; width=&quot;338&quot; height=&quot;600&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+    &lt;div class=&quot;col-sm-6&quot;&gt;There is nothing like sharing your progress with 100s of close friends on Facebook, Twitter, or emailing an update to your mother.  With a double tap on any of the graphs you can quickly take a picture of your current progress and post it for all to see.&lt;/div&gt;
+    &lt;div class=&quot;col-sm-6&quot;&gt;&lt;a href=&quot;/images/goal-weight/sharing-image.png&quot;&gt;&lt;img src=&quot;/images/goal-weight/sharing-image.png&quot; alt=&quot;sharing image&quot; width=&quot;338&quot; height=&quot;600&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;section_title&quot;&gt;Settings&lt;/h3&gt;
